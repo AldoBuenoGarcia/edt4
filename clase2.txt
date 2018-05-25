@@ -1,3 +1,14 @@
 public class clase2 {
 	private int variable3 = 0;
+	
+	// setter
+		public void setVariable3(int valor) {
+			this.variable3 = valor;
+		}
+
+
+	// getters
+		public int getVariable3() {
+			return variable3;
+		}
 }
