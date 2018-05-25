@@ -1,2 +1,23 @@
-private int variable1=0;
-private int variable2=0;
+public class clsae1 {
+
+	private int variable1 = 0;
+	private int variable2 = 0;
+
+	// setter
+	public void setVariable1(int valor) {
+		this.variable1 = valor;
+	}
+
+	public void setVariable2(int valor) {
+		this.variable2 = valor;
+	}
+
+	// getters
+	public int getVariable1() {
+		return variable1;
+	}
+
+	public int getVariable2() {
+		return variable2;
+	}
+}
