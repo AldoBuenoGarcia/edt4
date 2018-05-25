@@ -1,0 +1,1 @@
+private int variable2=0;
