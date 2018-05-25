@@ -20,4 +20,5 @@ public class clsae1 {
 	public int getVariable2() {
 		return variable2;
 	}
+asd
 }

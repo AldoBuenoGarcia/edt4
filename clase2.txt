@@ -1,0 +1,3 @@
+public class clase2 {
+	private int variable3 = 0;
+}
