@@ -1,1 +1,2 @@
 private int variable1=0;
+private int variable2=0;
